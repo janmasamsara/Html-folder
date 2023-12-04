@@ -1,0 +1,35 @@
+#box{
+    background-color: blue;
+    /* color: white; */
+}
+p{
+    text-align:end;
+    line-height:30px;
+    text-transform:lowercase;
+}
+
+/* text-align:end--right,start-left */
+.heading
+{
+    color: red;
+    text-decoration:underline;
+    font-weight:lighter;
+    font-family:Arial;
+    text-align:centre;
+    text-transform:capitalize;
+}
+button{
+background-color:green;
+}
+
+/* #stylesheet{
+background-color:green;
+} */
+
+/* text properties:
+text-transform:uppercase/lowercase/capitalize/none
+text-decoration:underline/dotted
+font-family:arial
+font-weight:lighter
+line-height:30px
+ */

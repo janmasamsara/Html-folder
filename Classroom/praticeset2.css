@@ -1,0 +1,21 @@
+*{
+    font-family:Times New Roman;
+}
+h1{
+    text-align:center;
+    text-transform:captialize;
+    border:1px solid black;
+    border-radius :10px;
+    padding-left:88px;
+} 
+#outer
+{
+    font-size:25px;
+}
+#inner{
+    font-size:10px;
+}
+
+div{
+    font: size 31px;;
+}

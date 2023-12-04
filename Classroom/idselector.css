@@ -1,0 +1,13 @@
+#headingOne
+{
+    color:#0000ff;
+}
+/* id selector <h1 id="box">heading</h1>... #box*/
+#headingTwo
+{
+    color:beige;
+}
+.myclass
+{
+    color: blueviolet;
+}
